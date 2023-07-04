@@ -1,0 +1,2 @@
+INSERT INTO tb_ficha (cliente, descricao) VALUES ('RPC', 'orem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus enim et scelerisque faucibus.');
+INSERT INTO tb_ficha (cliente, descricao) VALUES ('SNEWS', 'orem ipsum dolor sit amet, consectetur adipiscing elit. Aenean cursus enim et scelerisque faucibus.');
